@@ -45,4 +45,4 @@ This guide provide step by step tutorial How to set up Real Time Face-Mask detec
  ![](Images/test1.png)
  ![](Images/test2.png)
 
-All Images are taken from Internet for testing purpose
+## All Images are taken from Internet for testing purpose
