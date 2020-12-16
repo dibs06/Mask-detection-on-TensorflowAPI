@@ -35,11 +35,9 @@ This guide provide step by step tutorial How to set up Real Time Face-Mask detec
        (tensorflow1) C:\> pip install pandas
        (tensorflow1) C:\> pip install opencv-python
 			 
-	Configure PYTHONPATH environment variable
-	
-	   (tensorflow1) C:\> set PYTHONPATH=C:\tensorflow1\models;C:\tensorflow1\models\research;C:\tensorflow1\models\research\slim
+   d) Download this repo and extract to object detection folder	
 		 
-   d) Test Mask_Detection_tutorial.ipynb by typing in command prompt
+   e) Test Mask_Detection_tutorial.ipynb by typing in command prompt
             
        (tensorflow1) C:\tensorflow1\models\research\object_detection> jupyter notebook object_detection_tutorial.ipynb
 	
