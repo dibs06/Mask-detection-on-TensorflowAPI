@@ -44,4 +44,4 @@ This guide provide step by step tutorial How to set up Real Time Face-Mask detec
        (tensorflow1) C:\tensorflow1\models\research\object_detection> jupyter notebook object_detection_tutorial.ipynb
 	
 # Result
-	![]test1.png
+	![]Image/test1.png
