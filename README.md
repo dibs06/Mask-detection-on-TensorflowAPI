@@ -8,7 +8,7 @@ This guide provide step by step tutorial How to set up Real Time Face-Mask detec
     
 	a) Dowanload pretrained model(SSDMobilenet_v2_COCO) from [here](https://drive.google.com/drive/folders/16PJcq719mP1uOxxNaQITKz-HwlH81xRY?usp=sharing) and copy to the object detection folder
 	
-	I am using Tensorflow API previous model which is may be unavaliable now, So kindly download it from my source 
+	# I am using previous model of Tensorflow API  which is may be unavaliable now, So kindly download it from my source 
 	
 	b) Download Tensorflow API Previous version form [here](https://drive.google.com/drive/folders/1EDlgKsEbg53SgyvOkmgn48PI0HLmBvUO?usp=sharing)
 	
