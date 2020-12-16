@@ -45,3 +45,4 @@ This guide provide step by step tutorial How to set up Real Time Face-Mask detec
 	
 # Result
  ![](Images/test1.png)
+ ![](Images/test2.png)
