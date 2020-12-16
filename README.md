@@ -1,5 +1,6 @@
 # Face Mask-detection-on-TensorflowAPI
-<B>Introduction</B>
+
+## Introduction
 
 This guide provide step by step tutorial How to set up Real Time Face-Mask detection on Tensorflow API
 
@@ -42,5 +43,5 @@ This guide provide step by step tutorial How to set up Real Time Face-Mask detec
             
        (tensorflow1) C:\tensorflow1\models\research\object_detection> jupyter notebook object_detection_tutorial.ipynb
 	
-	<B>Result</B>
-	
+# Result
+	![]test1.png
